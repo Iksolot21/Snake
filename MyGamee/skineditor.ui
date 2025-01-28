@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>skineditor</class>
+ <widget class="QWidget" name="skineditor">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>429</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QLabel#label_1
+{
+border-image: url(:/images/resource/label_1.png) 0 0 0 0 stretch stretch;
+}
+QLabel#label_2
+{
+border-image: url(:/images/resource/label_2.png) 0 0 0 0 stretch stretch;
+}
+QLabel#label_3
+{
+border-image: url(:/images/resource/label_3.png) 0 0 0 0 stretch stretch;
+}
+QFrame
+{
+border-image: url(:/images/resource/menu_back.jpg) 0 0 0 0 stretch stretch;
+}
+QLabel#label_3
+{
+border-image: url(:/images/resource/label_3.png) 0 0 0 0 stretch stretch;
+}
+QPushButton#left_arrow
+{
+border-image: url(:/images/resource/l_arrow.png) 0 0 0 0 stretch stretch;
+}
+QPushButton#right_arrow
+{
+border-image: url(:/images/resource/r_arrow.png) 0 0 0 0 stretch stretch;
+}
+</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item row="0" column="0">
+    <widget class="QFrame" name="frame">
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <widget class="QLabel" name="label_1">
+      <property name="geometry">
+       <rect>
+        <x>90</x>
+        <y>50</y>
+        <width>70</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>180</x>
+        <y>60</y>
+        <width>70</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>270</x>
+        <y>50</y>
+        <width>70</width>
+        <height>150</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="choose">
+      <property name="geometry">
+       <rect>
+        <x>201</x>
+        <y>237</y>
+        <width>80</width>
+        <height>29</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string>choose</string>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="left_arrow">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>130</y>
+        <width>80</width>
+        <height>29</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+     <widget class="QPushButton" name="right_arrow">
+      <property name="geometry">
+       <rect>
+        <x>350</x>
+        <y>130</y>
+        <width>80</width>
+        <height>29</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

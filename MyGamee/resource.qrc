@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resource/2p.png</file>
+        <file>resource/body.png</file>
+        <file>resource/burger.png</file>
+        <file>resource/grass.png</file>
+        <file>resource/head.png</file>
+        <file>resource/icon.png</file>
+        <file>resource/menu_back.jpg</file>
+        <file>resource/menu_back_animation.gif</file>
+        <file>resource/p1.png</file>
+        <file>resource/Smeshariki_-_Muzyka_pogoni_66371495.mp3</file>
+        <file>resource/tail.png</file>
+        <file>resource/red_body.png</file>
+        <file>resource/red_head.png</file>
+        <file>resource/blue_body.png</file>
+        <file>resource/blue_head.png</file>
+        <file>resource/purple_body.png</file>
+        <file>resource/purple_head.png</file>
+        <file>resource/label_1.png</file>
+        <file>resource/label_2.png</file>
+        <file>resource/label_3.png</file>
+        <file>resource/l_arrow.png</file>
+        <file>resource/r_arrow.png</file>
+        <file>resource/yellow.png</file>
+        <file>resource/yellow_head.png</file>
+    </qresource>
+</RCC>
