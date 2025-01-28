@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>snake.jpg</file>
+        <file>bg.jpg</file>
+        <file>menu_back.jpg</file>
+        <file>butterfly-insect.gif</file>
+        <file>menu.mp3</file>
+        <file>table.jpg</file>
+        <file>table2.jpg</file>
+        <file>splashscreennew.mp4</file>
+        <file>videoplayback (1).m4a</file>
+        <file>Basic_Snake/release/MyGame.exe</file>
+        <file>les-ruchey-svet-derevya.jpg</file>
+        <file>playerinfo.jpg</file>
+        <file>icon.png</file>
+        <file>play.png</file>
+        <file>exit.png</file>
+        <file>IMG_1195.PNG</file>
+        <file>record.png</file>
+        <file>titre.png</file>
+        <file>Qumi-Qumi The Legend end credits.mp4</file>
+        <file>videoplayback (2).m4a</file>
+        <file>admin.jpg</file>
+        <file>nopic.jpg</file>
+    </qresource>
+</RCC>
